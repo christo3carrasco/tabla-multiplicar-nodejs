@@ -10,7 +10,9 @@ Puede ejecutar:
 
 Instalar dependencias.
 
-## Ayuda
+### `npm run help`
+
+Opciones disponibles.
 
 ```
 Opciones:

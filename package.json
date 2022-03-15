@@ -4,7 +4,7 @@
   "description": "Es una simple tabla de multiplicar con archivo de texto.",
   "main": "app.js",
   "scripts": {
-    "base12": "node app --base=12"
+    "help": "node app --help"
   },
   "author": "Christopher",
   "license": "MIT",
