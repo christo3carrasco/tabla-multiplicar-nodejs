@@ -1,3 +1,3 @@
 # Información
 
-Esta carpeta contiene el producto final de la aplicación.
+Esta carpeta almacena las tablas de multiplicar generadas.

@@ -1,6 +1,16 @@
-# Notas:
+# TABLA MULTIPLICAR APP:
 
 Tabla de multiplicar por consola en NodeJS.
+
+## Scripts disponibles
+
+Puede ejecutar:
+
+### `npm install`
+
+Instalar dependencias.
+
+## Ayuda
 
 ```
 Opciones:

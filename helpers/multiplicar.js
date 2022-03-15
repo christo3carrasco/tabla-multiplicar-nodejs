@@ -1,11 +1,13 @@
-const fs = require("fs");
 const colors = require("colors");
+const fs = require("fs");
 
+//Crear tabla de multiplicar
 const crearArchivo = async (base = 5, listar, hasta = 12) => {
   console.log("====================".america);
   console.log("    TABLA DEL".yellow, base);
   console.log("====================".america);
 
+  //Ciclo producto de los factores
   try {
     let salida = await "";
     let salidac = await "";
